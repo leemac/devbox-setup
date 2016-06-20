@@ -10,6 +10,10 @@ Currently installs the following:
 - Postgresql along with pgadmin3 (and a few other essentials)
 - Pip for python3
 
+Also configures the following:
+
+- virtualenvwrapper bashrc lines
+
 ## Inspiration
 
 Many things inspired by https://github.com/cjjeakle/devbox-setup
