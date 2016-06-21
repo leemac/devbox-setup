@@ -21,7 +21,7 @@ echo "Updating Repository"
 sudo apt-get update
 
 echo "Installing apt packages..."
-apt-get -y install git python3-pip postgresql postgresql-contrib pgadmin3 atom build-essential
+apt-get -y install git python3-pip postgresql postgresql-contrib pgadmin3 atom build-essential tmux libpq-dev python3-dev
 
 echo "Installing pip packages"
 pip3 install virtualenvwrapper
