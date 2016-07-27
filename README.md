@@ -2,6 +2,10 @@
 This repo contains a few scripts that help me setup my local devbox by installing tools/utilities that I always utilize. Geared toward
 Ubuntu-flavored distros. I mostly use Ubuntu and/or Mint.
 
+## Requirements
+
+Basic requirement is git/ssh key setup. I could use curl to get the script and run as root, but that opens up security issues.
+
 ## install.sh
 
 Currently installs the following:
